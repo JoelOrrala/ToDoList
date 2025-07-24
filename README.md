@@ -1,7 +1,6 @@
-# Taller PHP – Registro y Acceso de Usuarios
+# Taller PHP
 
-Este proyecto corresponde a un taller de **PHP**, en el cual se desarrollan formularios para registrar y acceder a usuarios, además de mostrar mensajes de bienvenida y validar datos.  
-**Desarrollado en Replit.**
+Este proyecto corresponde a un taller de **PHP**, en el cual se desarrollan formularios para registrar y acceder a usuarios, además de mostrar mensajes de bienvenida y validar datos. Desarrollado en Replit. 
 
 ## Archivos del proyecto
 
